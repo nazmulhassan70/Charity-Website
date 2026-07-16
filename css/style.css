@@ -312,6 +312,11 @@ header.main-header .right-side li.volunter a {
 .main-menu .logo {
   margin-top: 40px;
 }
+
+.main-menu .logo img{
+  width: 40%;
+  height: 40%;
+}
 .navbar-collapse {
   padding: 0;
   box-shadow: none;
@@ -1800,6 +1805,11 @@ footer .right-side.float-left ul li a {
 footer .section-middle {
   width: 50%;
   text-align: center;
+}
+footer .section-middle a img{
+  width:50%;
+  height:50%; 
+  margin-left: 150px;"
 }
 footer .section-middle p {
   font-size: 13px;
